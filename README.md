@@ -68,7 +68,7 @@ SQLite          DuckDB          ChromaDB       MCP Server
 
 The complete implementation is available in:
 
-**[Courseworkingwithopenai.ipynb](./Courseworkingwithopenai.ipynb)**
+**[agentic-course-enrollment-assistant.ipynb](./agentic-course-enrollment-assistant.ipynb)**
 
 The notebook includes environment setup, MCP server creation, agent definitions, data stores, orchestration logic, and the interactive application.
 
